@@ -2,6 +2,6 @@
   "version": "1.3.5",
   "installer": "TimeTracker_Setup.exe",
   "download_url": "https://github.com/abdelrahmanaede-eng/TimeTracker-Updates/releases/download/v1.3.5/TimeTracker_Setup.exe",
-  "sha256": "6ffa29c1bec001098c93e5a048267c630db3cfad0dd8aafa45397e6c2d123e7b",
-  "notes": "crash error startup solved"
+  "sha256": "08e2060086099da77daceb7e51ff9f99114b028f3d103005cc7b2b0e9ae90ee0",
+  "notes": ""
 }

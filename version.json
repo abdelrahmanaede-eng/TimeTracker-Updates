@@ -1,7 +1,7 @@
 {
-  "version": "1.3.5",
+  "version": "1.3.6",
   "installer": "TimeTracker_Setup.exe",
-  "download_url": "https://github.com/abdelrahmanaede-eng/TimeTracker-Updates/releases/download/v1.3.5/TimeTracker_Setup.exe",
-  "sha256": "08e2060086099da77daceb7e51ff9f99114b028f3d103005cc7b2b0e9ae90ee0",
-  "notes": "Fixes the 1.3.4 startup crash (the app appeared to do nothing when launched). Adds rotating log files, crash capture for the main thread and worker threads, 'Open Log Folder' and 'Create Diagnostics Bundle...' in the tray menu, and the --verbose / --diagnostics command-line flags."
+  "download_url": "https://github.com/abdelrahmanaede-eng/TimeTracker-Updates/releases/download/v1.3.6/TimeTracker_Setup.exe",
+  "sha256": "71a0d05e75652ca6e3c646d281713acf0b8cdaf6364a951711142e76122ce138",
+  "notes": ""
 }

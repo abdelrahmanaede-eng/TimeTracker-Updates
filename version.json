@@ -1,7 +1,7 @@
 {
-  "version": "1.3.6",
+  "version": "1.3.8",
   "installer": "TimeTracker_Setup.exe",
-  "download_url": "https://github.com/abdelrahmanaede-eng/TimeTracker-Updates/releases/download/v1.3.6/TimeTracker_Setup.exe",
-  "sha256": "71a0d05e75652ca6e3c646d281713acf0b8cdaf6364a951711142e76122ce138",
+  "download_url": "https://github.com/abdelrahmanaede-eng/TimeTracker-Updates/releases/download/v1.3.8/TimeTracker_Setup.exe",
+  "sha256": "14d514625cd267d87010e02bf4646fb6102b5ac9df52d4cb5644d050790f1f41",
   "notes": ""
 }
